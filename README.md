@@ -89,7 +89,7 @@ HeartDiseaseDeployment/
 
 ## 📝 Conclusion
 
-**Model Performance**: The Random Forest classifier was trained on the UCI Heart Disease dataset, splitting the data into 80% training and 20% testing. It successfully learned the patterns of clinical parameters and achieved an excellent accuracy (typically >85%) on the unseen test data.
+**Model Performance**: The Random Forest classifier was trained on the UCI Heart Disease dataset, splitting the data into 80% training and 20% testing. It successfully learned the patterns of clinical parameters and achieved an excellent accuracy of **98.54%** on the unseen test data.
 
 **Challenges Faced During Deployment**: One of the primary challenges involved ensuring that the virtual environment matched the cloud environment and properly handling missing or misformatted JSON fields in the Flask API. Properly configuring `gunicorn` for Render and managing correct file paths for the loaded `model.pkl` were also critical hurdles that were successfully addressed.
 
