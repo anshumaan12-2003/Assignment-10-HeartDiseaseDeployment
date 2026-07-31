@@ -3,7 +3,7 @@
 An End-to-End Machine Learning Model Deployment using GitHub and Render (AI-ML Assignment – 10).
 
 ## 🚀 Live Demo
-**Render Deployment URL**: `[INSERT RENDER URL HERE]`
+**Render Deployment URL**: `https://assignment-10-heartdiseasedeployment.onrender.com/`
 
 ## 📁 Repository Structure
 ```
